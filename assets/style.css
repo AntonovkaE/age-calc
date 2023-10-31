@@ -1,0 +1,10 @@
+:root {
+  --color-primary-purple: hsl(259, 100%, 65%);
+  --color-primary-light: hsl(0, 100%, 67%);
+  --color-neutral-white: hsl(0, 0%, 100%);
+  --color-neutral-white-off: hsl(0, 0%, 94%);
+  --color-light-grey:  hsl(0, 0%, 86%);
+  --color-smokey-grey: hsl(0, 1%, 44%);
+  --color-black-off: hsl(0, 0%, 8%);
+  --font-size-main: 32px;
+}
